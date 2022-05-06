@@ -1,6 +1,6 @@
 # terraform-aws-control-tower-aft-customizations
 
-Template repository for the account customizations files for AFT.
+Template repository for account provisioning and account updating files via AWS Control Tower AFT.
 
 ## TL;DR
 
